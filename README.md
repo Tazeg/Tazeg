@@ -7,6 +7,6 @@ I'm JeffProd from France. I enjoy to code and share what I learn on <https://jef
 **About me**
 
 - Blog posts ([English](https://en.jeffprod.com/blog/)|[French](https://fr.jeffprod.com/blog/))
-- [Android apps](https://play.google.com/store/apps/developer?id=JeffProd)
+- [Our apps](https://en.jeffprod.com/softwares/)
 
 [Donate](https://en.jeffprod.com/donate/) :kissing_heart:
